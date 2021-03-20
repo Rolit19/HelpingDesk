@@ -4,3 +4,14 @@
     box-sizing: border-box;
     background-color: rgb(50, 66, 73);
 }
+
+.img-size {
+    height: 30px;
+    width: 30px;
+    border-radius: 1;
+}
+
+.img-card {
+    height: 250px;
+    width: 250px;
+}
