@@ -17,5 +17,14 @@
 }
 .center{
     font-size: 25px;
-    color: blue;
+    color:whitesmoke;
+}
+.class{
+    background-color: black;
+    color:whitesmoke;
+}
+a:hover{
+    background-color:blue;
+    color:white;
+
 }
