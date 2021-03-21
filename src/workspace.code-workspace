@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\..\\..\\Desktop\\web development"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "HelpingDesk"
+	}
+}
