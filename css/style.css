@@ -18,13 +18,14 @@
 .center{
     font-size: 25px;
     color:whitesmoke;
+    margin:20px;
 }
 .class{
     background-color: black;
     color:whitesmoke;
 }
 a:hover{
-    background-color:blue;
-    color:white;
+    font-size:25px;
+    color:blue;
 
 }
