@@ -41,7 +41,7 @@ a:hover {
 
 
 footer {
-  background: #333;
+  background: #222;
   color: #aaa;
   padding-top: 20px;
 
@@ -97,7 +97,7 @@ footer .img-thumbnail {
 
 footer .copyright {
   padding: 15px 0;
-  background: #222;
+  background: #333;
   margin-top: 20px;
   font-size: 15px;
 }
