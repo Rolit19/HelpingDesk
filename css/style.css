@@ -50,6 +50,16 @@ a:hover {
 
 }
 
+h1 {
+    text-align: center !important;
+    font-weight: bold;
+    font-style: 'Bolt Sans';
+    font-size: x-large;
+    border: 1px solid #d18708;
+    background-color: #000000;
+    color: #ffffff;
+    blockquote {margin:20px;}
+}
 
 .thecard {
   display: flex;
@@ -58,8 +68,8 @@ a:hover {
   perspective: 150rem;
   -moz-perspective: 150rem;
   position: relative;
-  height: 400px;
-  width: 1200px;
+  height: 300px;
+  width: 1000px;
 }
 
 .thecard__side {
