@@ -2,11 +2,11 @@
 
 * {
   box-sizing: border-box;
-  background-color: #202020;
+  background-color: ;
 }
 
 .body {
-  background-color: #000000;
+  background-color: #202020;
 }
 
 .img-size {
@@ -18,6 +18,7 @@
 .img-card {
   height: 250px;
   width: 250px;
+  background-color: #202020;
 }
 
 .center {
@@ -54,6 +55,10 @@ a:hover {
 
 }
 
+.card3{
+  margin-top: 50px;
+}
+
 h1 {
   text-align: center !important;
 
@@ -62,12 +67,40 @@ h1 {
   border: 1px solid #d18708;
   background-color: #000000;
   color: #ffffff;
+}
 
+.card1{
+  background-color: #000000;
+}
 
+.card2:hover{
+  color: #000000;
+  background-color: #a76c06;
 }
 
 
+div.columns {
+      margin-top: 60px;
+      margin-bottom: 60px;
+      background-color: #000000;
+    }
 
+    p {
+      font-family: calibri;
+      font-size: 18px;
+      color: #ffffff;
+
+
+    }
+
+    p.has-text-danger {
+      margin-left: 95px;
+    }
+
+
+
+
+  
 
 
 footer {
