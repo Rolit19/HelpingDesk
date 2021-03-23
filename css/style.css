@@ -74,8 +74,16 @@ h1 {
 }
 
 .card2:hover{
-  color: #000000;
+  font-weight: bold;
+  font-size: 16px;
+  color: #ffffff;
   background-color: #a76c06;
+}
+
+.card3{
+  font-weight: bold;
+  font-size: 16px;
+  color: #ffffff;
 }
 
 
@@ -100,7 +108,7 @@ div.columns {
 
 
 
-  
+
 
 
 footer {
