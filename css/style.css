@@ -5,6 +5,10 @@
   background-color: #202020;
 }
 
+.body {
+  background-color: #000000;
+}
+
 .img-size {
   height: 30px;
   width: 30px;
@@ -51,14 +55,17 @@ a:hover {
 }
 
 h1 {
-    text-align: center !important;
-    font-weight: bold;
-    font-style: 'Bolt Sans';
-    font-size: x-large;
-    border: 1px solid #d18708;
-    background-color: #000000;
-    color: #ffffff;
-    blockquote {margin:20px;}
+  text-align: center !important;
+  font-weight: bold;
+  font-style: 'Bolt Sans';
+  font-size: x-large;
+  border: 1px solid #d18708;
+  background-color: #000000;
+  color: #ffffff;
+
+  blockquote {
+    margin: 20px;
+  }
 }
 
 .thecard {
