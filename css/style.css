@@ -68,6 +68,7 @@ h1 {
   }
 }
 
+
 .thecard {
   display: flex;
   align-items: center;
@@ -111,6 +112,7 @@ h1 {
   -webkit-transform: rotateY(0);
   transform: rotateY(0);
 }
+
 
 
 
