@@ -6,8 +6,10 @@
 
 * {
     transition: .5s;
-    
+
 }
+
+
 
 .img-size {
     height: 30px;
@@ -29,6 +31,7 @@
     letter-spacing: .05rem;
     font-family: 'Oswald', sans-serif;
     box-shadow: 0 0 21px rgba(0, 0, 0, .27);
+
 }
 
 .center {
