@@ -86,24 +86,28 @@ h1 {
     color: #ffffff;
 }
 
-
 div.columns {
-    margin-top: 60px;
-    margin-bottom: 60px;
-    background-color: #000000;
+  margin-top: 60px;
+  margin-bottom: 60px;
+  background-color: #000000;
 }
 
 p {
-    font-family: calibri;
-    font-size: 18px;
-    color: #ffffff;
+  font-family: calibri;
+  font-size: 18px;
+  color: #ffffff;
 
 
 }
 
 p.has-text-danger {
-    margin-left: 95px;
+  margin-left: 95px;
 }
+
+
+
+
+
 
 footer {
     background: #222;
