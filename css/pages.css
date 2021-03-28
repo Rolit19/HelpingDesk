@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css?family=Acme|Lobster|Patua+One|Rubik|Sniglet");
+
+* {
+    box-sizing: border-box;
+    background-color: rgba(48, 47, 45, 0.973);
+    color: rgb(240, 248, 255);
+
+}
+
+.text {
+    color: antiquewhite;
+    font-size: x-large;
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0.5rem;
+    border-style: double;
+    height: 400px;
+    width: 600px;
+}
+
+th {
+    border: 1px solid #999;
+    padding: 0.5rem;
+    border-spacing: 0.5rem;
+    text-align: center;
+    color: whitesmoke;
+    font-style: normal;
+    font-size: large;
+
+}
+
+td {
+    border: 1px solid #999;
+    padding: 0.5rem;
+    border-spacing: 0.5rem;
+    text-align: left;
+    color: whitesmoke;
+    font-style: normal;
+    font-size: medium;
+}
