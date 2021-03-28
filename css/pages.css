@@ -2,11 +2,15 @@
 
 * {
     box-sizing: border-box;
-    background-color: black;
+    background-color: blanchedalmond;
 }
 
 table {
     border-collapse: collapse;
+    border-spacing: 0.5rem;
+    border-style: dotted;
+    height: 150px;
+    width: 600px;
 }
 
 td,
@@ -14,4 +18,7 @@ th {
     border: 1px solid #999;
     padding: 0.5rem;
     text-align: left;
+    color: black;
+    font-style: normal;
+    font-size: medium;
 }
