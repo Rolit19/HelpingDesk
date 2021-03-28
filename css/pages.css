@@ -2,13 +2,13 @@
 
 * {
     box-sizing: border-box;
-    background-color: rgb(65, 64, 63);
-    color: rgb(240, 248, 255);
+    background-color: white;
+    color: rgb(11, 12, 12);
 
 }
 
 .text {
-    color: antiquewhite;
+    color: rgb(32, 32, 32);
     font-size: x-large;
     text-align: center;
 }
@@ -22,29 +22,30 @@ table {
 }
 
 th {
-    border: 1px solid #999;
+    border: 1px solid rgb(15, 14, 14);
     padding: 0.5rem;
     border-spacing: 0.5rem;
     text-align: center;
-    color: whitesmoke;
+    color: rgb(24, 23, 23);
     font-style: normal;
     font-size: large;
 
 }
 
 td {
-    border: 1px solid #999;
+    border: 1px solid rgb(31, 30, 30);
     padding: 0.5rem;
     border-spacing: 0.5rem;
     text-align: left;
-    color: whitesmoke;
+    color: rgb(14, 13, 13);
     font-style: normal;
     font-size: medium;
 }
 
-.pagination a:hover,a:active {font-size: 30px;
-    color:#d18708;
+.pagination a:hover,
+a:active {
+    font-size: 30px;
+    color: #d18708;
     border-radius: 5px;
-    background-color: rgb(49, 44, 44);}
-
- 
+    background-color: rgb(49, 44, 44);
+}
