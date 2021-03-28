@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css?family=Acme|Lobster|Patua+One|Rubik|Sniglet");
+
+* {
+    box-sizing: border-box;
+    background-color: black;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+td,
+th {
+    border: 1px solid #999;
+    padding: 0.5rem;
+    text-align: left;
+}
