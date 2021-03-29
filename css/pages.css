@@ -25,7 +25,7 @@ table {
 }
 
 th {
-    border: 1px solid rgb(15, 14, 14);
+    border: 1px solid whitesmoke;
     padding: 0.5rem;
     border-spacing: 0.5rem;
     text-align: center;
@@ -36,7 +36,7 @@ th {
 }
 
 td {
-    border: 1px solid rgb(31, 30, 30);
+    border: 1px solid whitesmoke;
     padding: 0.5rem;
     border-spacing: 0.5rem;
     text-align: left;
