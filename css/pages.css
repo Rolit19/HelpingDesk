@@ -42,7 +42,8 @@ td {
     font-size: medium;
 }
 
-.pagination a:hover,a:active {font-size: 30px;
+.pagination a:hover 
+    {font-size: 30px;
     color:#d18708;
     border-radius: 5px;
     background-color: rgb(49, 44, 44);}
