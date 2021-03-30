@@ -83,14 +83,10 @@ p {
     color: #ffffff;
 }
 .card5 {
-    margin-left: 90px;
-    
+    margin-left: 480px;
+    margin-top: 60px;
     position: relative;
   }
-
-
-
-
 
 
 
@@ -175,4 +171,3 @@ footer .copyright {
 footer .copyright span {
     color: #d18708;
 }
-
