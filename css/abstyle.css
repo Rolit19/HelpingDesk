@@ -93,10 +93,10 @@ p {
 
 
 img{
-  opacity: 1.0;
+  opacity: 0.1;
 }
 img:hover{
-  opacity: 0.1;
+  opacity: 1.0;
 }
 
 .first{
@@ -106,6 +106,22 @@ img:hover{
 .first:hover{
   opacity: 0.0;
 }
+
+
+
+
+.h7{
+  text-align: center;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-left: 200px;
+  margin-right: 200px;
+
+}
+
+
+
+
 
 
 
