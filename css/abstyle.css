@@ -82,40 +82,42 @@ p {
     font-size: 18px;
     color: #ffffff;
 }
+
 .card5 {
     margin-left: 480px;
     margin-top: 100px;
     position: relative;
     margin-bottom: 100px;
-  }
-
-
-
-
-img{
-  opacity: 0.1;
-}
-img:hover{
-  opacity: 0.8;
-}
-
-.first{
-  opacity: 1.0;
-}
-
-.first:hover{
-  opacity: 0.0;
 }
 
 
 
 
-.h7{
-  text-align: center;
-  margin-top: 100px;
-  margin-bottom: 100px;
-  margin-left: 200px;
-  margin-right: 200px;
+img {
+    opacity: 0.1;
+}
+
+img:hover {
+    opacity: 0.8;
+}
+
+.first {
+    opacity: 1.0;
+}
+
+.first:hover {
+    opacity: 0.0;
+}
+
+
+
+
+.h7 {
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 200px;
+    margin-right: 200px;
 
 }
 
@@ -127,17 +129,17 @@ img:hover{
 
 
 .container {
-  position: relative;
-  text-align: center;
-  color: white;
+    position: relative;
+    text-align: center;
+    color: white;
 }
 
 
 .centered {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
 
 
