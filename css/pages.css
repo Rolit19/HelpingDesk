@@ -2,8 +2,8 @@
 
 * {
     box-sizing: border-box;
-    background-color:#202020;
-    color:white;
+    background-color: #202020;
+    color: white;
 
 }
 
@@ -74,20 +74,20 @@ h1 {
 
 
 .topnav-right {
-  float: right;
-  font-size: 20px;
+    float: right;
+    font-size: 20px;
 
 }
 
 .nav:hover {
-  font-size: 21px;
-  color: #d18708;
+    font-size: 21px;
+    color: #d18708;
 }
 
 
 
-.text{
-  text-align: center;
+.text {
+    text-align: center;
 }
 
 
@@ -136,12 +136,12 @@ p.has-text-danger {
 
 
 
-.body{
+.body {
     background-color: #202020;
 }
 
 .text {
-    color:whitesmoke;
+    color: whitesmoke;
     font-size: x-large;
     text-align: center;
 }
@@ -174,18 +174,25 @@ td {
     font-style: normal;
     font-size: medium;
 }
-.ed:hover{
-    color:#d18708;
+
+.ed:hover {
+    color: #d18708;
     font-size: 20px;
 }
-.ed1{ text-align: center;
-border:solid 3px #d18708;
-background-color: black;
-margin-top: 10px;
+
+.ed1 {
+    text-align: center;
+    border: solid 3px #d18708;
+    background-color: black;
+    margin-top: 10px;
 }
 
 .pagination a:hover {
     color: #d18708;
     border-radius: 5px;
     background-color: rgb(49, 44, 44);
+}
+
+.img {
+    justify-content: center;
 }
