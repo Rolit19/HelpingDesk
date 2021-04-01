@@ -15,16 +15,7 @@
     border-radius: 1;
 }
 
-.img-card {
-    height: 250px;
-    width: 250px;
-    background-color: #202020;
-    opacity: 0.2;
-}
 
-.img-card:hover {
-  opacity: 0.8;
-}
 
 
 
@@ -61,6 +52,7 @@ a:hover {
     color: #d18708;
 
 }
+
 
 
 footer {
