@@ -29,13 +29,12 @@
     margin: 10px;
     width: 320px;
     height: 10%;
-    position: relative;
     text-align: center;
 
 }
 
-.class1{
-  background-color: #000000;
+.class1 {
+    background-color: #000000;
 }
 
 .class {
@@ -50,102 +49,6 @@ a:hover {
     color: #d18708;
 
 }
-
-.card3 {
-    margin-top: 50px;
-}
-
-h1 {
-    text-align: center !important;
-
-    font-style: 'Bolt Sans';
-    font-size: x-large;
-    border: 1px solid #d18708;
-    background-color: #000000;
-    color: #ffffff;
-}
-
-
-
-div.columns {
-    margin-top: 60px;
-    margin-bottom: 60px;
-    background-color: #000000;
-}
-
-p {
-    font-family: calibri;
-    font-size: 18px;
-    color: #ffffff;
-}
-
-.card5 {
-    margin-left: 480px;
-    margin-top: 100px;
-    position: relative;
-    margin-bottom: 100px;
-}
-
-
-
-
-img {
-    opacity: 0.1;
-}
-
-img:hover {
-    opacity: 0.8;
-}
-
-.first {
-    opacity: 1.0;
-}
-
-.first:hover {
-    opacity: 0.0;
-}
-
-
-
-
-.h7 {
-    text-align: center;
-    margin-top: 100px;
-    margin-bottom: 100px;
-    margin-left: 200px;
-    margin-right: 200px;
-
-}
-
-
-
-.h4 {
-  text-align: center;
-  font-weight: bold;
-  color: #d18708;
-}
-
-
-
-
-.container {
-    position: relative;
-    text-align: center;
-    color: white;
-}
-
-
-.centered {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-}
-
-
-
-
-
 
 
 footer {
