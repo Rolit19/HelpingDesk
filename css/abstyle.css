@@ -2,11 +2,11 @@
 
 * {
     box-sizing: border-box;
-    background-color: black;
+    background-color: #000000;
 }
 
 .body {
-    background-color: #202020;
+    background-color: #000000;
 }
 
 .img-size {
@@ -19,8 +19,20 @@
     height: 250px;
     width: 250px;
     background-color: #202020;
+    opacity: 0.2;
 }
 
+.img-card:hover {
+  opacity: 0.8;
+}
+
+
+
+
+
+.class1{
+  background-color: #000000;
+}
 
 
 .center {
