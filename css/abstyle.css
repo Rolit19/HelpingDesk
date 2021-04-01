@@ -21,15 +21,7 @@
     background-color: #202020;
 }
 
-.center {
-    font-size: 20px;
-    color: whitesmoke;
 
-    width: 320px;
-    height: 10%;
-    position: relative;
-    text-align: center;
-}
 
 .center {
     font-size: 20px;
@@ -40,6 +32,10 @@
     position: relative;
     text-align: center;
 
+}
+
+.class1{
+  background-color: #000000;
 }
 
 .class {
