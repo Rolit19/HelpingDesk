@@ -17,28 +17,28 @@
 
 
 .team {
-  justify-content: center;
-  text-align: center;
-  font-weight: bold;
-  display: flex;
+    justify-content: center;
+    text-align: center;
+    font-weight: bold;
+    display: flex;
 }
 
 
-.p{
-  width: inherit;
-  justify-content: center;
-  display: flex;
-  font-size: medium;
+.p {
+    width: inherit;
+    justify-content: center;
+    display: flex;
+    font-size: large;
 }
 
-.class1{
-  background-color: #000000;
+.class1 {
+    background-color: #000000;
 }
 
-.h4{
-  text-align: center;
-  display: flex;
-  font-weight: bolder;
+.h4 {
+    text-align: center;
+    display: flex;
+    font-weight: bolder;
 }
 
 
