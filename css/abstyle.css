@@ -16,13 +16,36 @@
 }
 
 
+.team {
+  justify-content: center;
+  text-align: center;
+  font-weight: bold;
+  display: flex;
+}
 
 
-
-
+.p{
+  width: inherit;
+  justify-content: center;
+  display: flex;
+  font-size: medium;
+}
 
 .class1{
   background-color: #000000;
+}
+
+.h4{
+  text-align: center;
+  display: flex;
+  font-weight: bolder;
+}
+
+
+.text {
+    color: whitesmoke;
+    font-size: x-large;
+    text-align: center;
 }
 
 
